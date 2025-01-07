@@ -403,8 +403,10 @@ input, select, textarea {
 				}
 
 		.row {
-			margin-top: -50px;
-			margin-left: -50px;
+			/* old way margin-top: -50px; */
+			/* old way margin-left: -50px; */
+			margin-top: 0px;
+			margin-left: 0px;
 		}
 
 			.row > * {
